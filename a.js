@@ -1,17 +1,3 @@
-// ==UserScript==
-// @name         Kahoot cheats MOD MENU
-// @version      1.0.30
-// @namespace    https://github.com/jokeri2222
-// @description  A hack for kahoot.it! And also when copying the userscript make sure you install the script by just pressing the install button and then copying this userscript you don't really have to install it but just click the install button and then copy this userscript!
-// @license MIT  Rylan Rude
-// @author       Rylan Rude
-// @match        https://kahoot.it/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=kahoot.it
-// @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/526018/Kahoot%20cheats%20MOD%20MENU.user.js
-// @updateURL https://update.greasyfork.org/scripts/526018/Kahoot%20cheats%20MOD%20MENU.meta.js
-// ==/UserScript==
-var Version = '1.0.29'
 
 var questions = [];
 var info = {
